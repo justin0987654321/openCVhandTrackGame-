@@ -3,24 +3,43 @@
  
 heres a list of pip packages I have in my python scriot 
 absl-py
-attrs;
+
+attrs
+
 cvzone
+
 cycler
+
 fonttools
+
 kiwisolver
+
 matplotlib
+
 mediapipe
+
 numpy
+
 opencv-contrib-python
+
 opencv-python
+
 packaging
+
 pip
+
 protobuf
+
 pyparsing
+
 python-dateutil
+
 setuptools
+
 SiX
+
 sockets
+
 typing-extensions
 
 but I imagine that you only need sockets,opencv-python,mediapipe,numpy and  cvzone
