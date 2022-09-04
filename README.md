@@ -3,7 +3,7 @@
  
 heres a list of pip packages I have in my python scriot 
 absl-py
-attrs
+attrs;
 cvzone
 cycler
 fonttools
