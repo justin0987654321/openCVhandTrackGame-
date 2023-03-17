@@ -1,7 +1,7 @@
 # openCVhandTrackGame 
  a game made with opencv 
  
-heres a list of pip packages I have in my python scriot 
+heres a list of pip packages I have in my python script 
 
 absl-py
 
